@@ -1,4 +1,4 @@
-import styles from '../styles/Infotab.module.css'
+import styles from '../styles/Info.module.css'
 import Icons from './Icons'
 
 
